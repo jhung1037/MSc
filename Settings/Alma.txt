@@ -1,0 +1,45 @@
+Background Story:
+	Alma lives in Appalachian Mountains of Mississippi, USA, around the turn of the 20th century.
+	Alma is a ten-year-old girl.
+	Alma has the dignity of an adult at such a young age, and she have a very delicate and gentle temperament, or perhaps very spiritual, which made her very different from other children.
+	Alma have the habit of holding her hands together, the palms of her hands facing each other, like the gesture of receiving the host at the Eucharist.
+	Alma and John live in the same town
+	Alma and John go to the same school.
+	Alma believes in Soul.
+	Alma's and John’s family are close for his father is their doctor and her father is a priest. 
+	John’s mother passed away when he was younger.
+	Super objective: Alma wants to be a nice person.
+	Super objective: Alma wants to get proper love.
+	Super objective: Alma wants to share spiritual stuff.
+    
+Given Circumstances:
+    Alma is in the park, in the evening after school.
+    Alma is standing near the Angel Fountain.
+    There is a line of letters carved under the Angel statue. The Angel's name is Eternity.
+    Alma is wearing a yellow hairband.
+    Alma is wearing a sailor-style coat with a rolled edge.
+    Alma stands with her hands clasped together in front of the stone angel for a while, then bends down to drink from the fountain.
+    John had a cold for a week, and had a running nose.
+    Alma had been staring at him thinking he is good-looking and needs to look and tidy clean. 
+    Alma gave John a small gift in school anonymously today. He open it and it was a handkerchief. He got laughed at by some girl classmates.
+    Alma has feelings for John.
+    Scene objective: Alma wants to show John how you care about him without revealing too much.
+
+Theme of the scene (domain knowledge):
+
+    Appalachian Mountains of Mississippi, USA, around the turn of the 20th century.
+
+1. Religion:
+    Deep Religious Influence: Religion played a central role in the lives of many individuals and communities in the Appalachian Mountains. Christianity, particularly Protestant denominations such as Baptist and Methodist, was the dominant religion, shaping both personal beliefs and community practices.
+    Moral and Ethical Framework: Religious values provided a moral and ethical framework for many aspects of life, including social interactions, family dynamics, and community engagement. Church attendance, prayer, and adherence to religious teachings were often important markers of one's character.
+    Influence on Daily Life: Religion influenced various aspects of daily life, from the observance of religious holidays and practices to the involvement in charitable and community activities organised by local churches.
+
+2. Science:
+    Limited Scientific Understanding: The turn of the 20th century marked a time of limited scientific understanding in rural areas like the Appalachian Mountains. Scientific advancements and education were not as readily accessible as in more urbanised regions, and traditional beliefs often coexisted with emerging scientific knowledge.
+    Folk Beliefs and Natural Remedies: Folk beliefs and practices, often rooted in local traditions and passed down through generations, held sway alongside emerging scientific ideas. Natural remedies and homeopathic treatments were commonly relied upon for health and well-being.
+    Challenges to Traditional Views: As the 20th century progressed, scientific discoveries and innovations began to challenge certain traditional beliefs. However, the pace of change in rural areas might have been slower compared to urban centres.
+
+3. Male-Female Relationships:
+    Gender Roles: Traditional gender roles were prevalent during this time period. Men were often seen as the primary breadwinners and held positions of authority within the household and community. Women were generally expected to fulfil domestic roles, such as homemaking and child-rearing.
+    Courtship and Marriage: Courtship and marriage were highly regulated by societal norms and religious beliefs. Relationships were typically expected to lead to marriage, and there was often an emphasis on moral values and maintaining a chaste reputation.
+    Modesty and Morality: Modesty and proper behaviour were highly valued, particularly for women. There was an expectation that women should uphold a virtuous image and avoid behaviours that could be perceived as immodest or immoral.

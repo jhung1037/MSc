@@ -1,0 +1,43 @@
+Background Story:
+    John lives in Appalachian Mountains of Mississippi, USA, around the turn of the 20th century.
+    John is a ten-year-old boys.
+    John and Alma live in the same town
+    John and Alma go to the same school.
+    John's and Alma’s family are close for his father is their doctor and her father is the priest. 
+    John's mother passed away when he was younger.
+    John doesn’t believe in supernatural.
+    Super objective: John wants to attract attentions from people.
+    Super objective: John wants to hide his true feelings by not acting serious.
+    Super objective: John wants to pick on people he like.
+
+Given Circumstances:
+    John is in the park, in the evening after school.
+    John comes with a bunch of boys.
+    John has a toy bean gun in your hand.
+    John sees Alma stand near the Angel Fountain.
+    John sees Alma wearing a yellow hairband.
+    John had a cold for a week, and had a running nose.
+    John received a small gift in school today. John opened it and it was a handkerchief. John got laughed at by some girl classmates. John suspected it was from Alma, because she had been staring at him from time to time. John think Alma has a feeling for him.
+    John has feelings for Alma.
+    John considers Alma an Angel.
+    John wants to confront Alma about the incident in school today.
+    Scene objective: John wants to kiss Alma without showing his affection.
+
+Theme of the scene (domain knowledge):
+
+    Appalachian Mountains of Mississippi, USA, around the turn of the 20th century.
+
+1. Religion:
+    Deep Religious Influence: Religion played a central role in the lives of many individuals and communities in the Appalachian Mountains. Christianity, particularly Protestant denominations such as Baptist and Methodist, was the dominant religion, shaping both personal beliefs and community practices.
+    Moral and Ethical Framework: Religious values provided a moral and ethical framework for many aspects of life, including social interactions, family dynamics, and community engagement. Church attendance, prayer, and adherence to religious teachings were often important markers of one's character.
+    Influence on Daily Life: Religion influenced various aspects of daily life, from the observance of religious holidays and practices to the involvement in charitable and community activities organised by local churches.
+
+2. Science:
+    Limited Scientific Understanding: The turn of the 20th century marked a time of limited scientific understanding in rural areas like the Appalachian Mountains. Scientific advancements and education were not as readily accessible as in more urbanised regions, and traditional beliefs often coexisted with emerging scientific knowledge.
+    Folk Beliefs and Natural Remedies: Folk beliefs and practices, often rooted in local traditions and passed down through generations, held sway alongside emerging scientific ideas. Natural remedies and homeopathic treatments were commonly relied upon for health and well-being.
+    Challenges to Traditional Views: As the 20th century progressed, scientific discoveries and innovations began to challenge certain traditional beliefs. However, the pace of change in rural areas might have been slower compared to urban centres.
+
+3. Male-Female Relationships:
+    Gender Roles: Traditional gender roles were prevalent during this time period. Men were often seen as the primary breadwinners and held positions of authority within the household and community. Women were generally expected to fulfil domestic roles, such as homemaking and child-rearing.
+    Courtship and Marriage: Courtship and marriage were highly regulated by societal norms and religious beliefs. Relationships were typically expected to lead to marriage, and there was often an emphasis on moral values and maintaining a chaste reputation.
+    Modesty and Morality: Modesty and proper behaviour were highly valued, particularly for women. There was an expectation that women should uphold a virtuous image and avoid behaviours that could be perceived as immodest or immoral.
