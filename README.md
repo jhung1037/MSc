@@ -18,7 +18,7 @@ pip tiktoken
 3.  A `Script.txt` file will be generated. The length of the script can be customised in `Main.py`.
 
 ## Individual Code file Description
-1.  `Main.py` brings together the code, orchestrating character interactions and recording lines into a script.
+1.  `Main.py` brings together the codes, orchestrating character interactions and recording lines into a script.
 2.  `Chatbot.py` houses the core structure of the created chatbots, with GPT-4 and LangChain operating within.
 3.  `Prompts.py` serves as the primary template for human-like thinking process prompting.
 4.  The `Settings` folder contains necessary data for character initialisation.
