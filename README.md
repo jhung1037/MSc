@@ -1,4 +1,4 @@
-# Script Generator
+# Theatrical Script Generator
 
 ## Description
 This script generator is designed to create more human-like conversations. It is powered by GPT-4 and integrated with the LangChain framework. The example materials are excerpts from the first scene of *Summer and Smoke* by Tennessee Williams. When run, it recreates a new story between the two main characters.
