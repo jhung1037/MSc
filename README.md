@@ -3,6 +3,9 @@
 ## Description
 This script generator is designed to create more human-like conversations. It is powered by GPT-4 and integrated with the LangChain framework. The example materials are excerpts from the first scene of *Summer and Smoke* by Tennessee Williams. When run, it recreates a new story between the two main characters.
 
+## Inception
+Although LLMs are nearly flawless at question-answering tasks nowadays, they still struggle to generate a theatrical-approved script or a lifelike conversation. Therefore, this experiment is conducted to explore the possibility of simulating cognitive processes by employing acting techniques with LLMs. Hoping that one day this realisation will go beyond merely humanising conversations or enhancing script generators; it will extend to perfecting human mind simulation.
+
 ## Installation
 ```
 pip install openai 
